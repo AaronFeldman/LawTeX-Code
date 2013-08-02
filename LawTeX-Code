@@ -1,0 +1,160 @@
+\providecommand{\documentclassflag}{}
+\documentclass[12pt,\documentclassflag]{lawbrief} 
+
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace,microtype,xcolor}
+%\usepackage[hyperindex=false,linkbordercolor=white]{hyperref}
+
+\makeandletter
+\citecase {Kosturek v. Kosturek,  107 A.D.3d 762 (2d Dept 2013)}
+%\citecase{Lochner v. New York, 198 U.S. 45 (1905)}
+
+
+\statutesindextitle{Statutes and Rules}
+%\newstatute{39 U.S.C.}{(1988)}
+
+\SetIndexName{39 U.S.C.}{39@Title 39, United States Code !}
+\SetIndexName{CPLR}{Civil Practice Law and Rules !}
+
+\newmisc{Black's Law Dictionary}{Black's Law Dictionary (8th ed. 2004)}
+
+%\newmisc{Elcano Decl.}{January 6, 1993 Declaration of Mary S. Elcano\pin{ }{}}
+%\SetIndexType{Elcano Decl.}{} %Suppress from the Table of Authorities
+ 
+\plaintiffs{Bert~H.~Mackie, Norma~Pace, John~N.~Griesemer, Crocker~Nevin, Tirso~Del~Junco, Marvin~T.~Runyon, Michael~S.~Coughlin}
+\defendant{George Bush, in his official capacity as President of the United States} 
+\court{In The United States District Court \\ for the District of Columbia}
+\actionnumber{\vspace{1.1in}Index No. 93-0032-LFO}
+
+\parindent=2em
+\setlength{\parskip}{1.25ex plus 2ex minus .5ex} 
+\doublespacing
+
+\begin{document}
+
+%================ MOTION =======================
+\makecaption
+
+\section*{Plaintiffs' Motion for a Temporary Restraining Order}
+
+Pursuant to Federal Rules of Civil Procedure 65(b), for the reasons set forth in the accompanying statement of points and authorities, the Plaintiffs move for a Temporary Restraining Order against Defendant Bush on the grounds that the Plaintiffs otherwise face immediate, irreparable injury, and that they have a substantial likelihood of success on the merits.
+
+Date: January 6, 1993
+
+\begin{rightbox}
+Respectfully Submitted,\\
+~\\
+John Q. Lawyer\\
+127 Wall Street\\
+New Haven, CT 06511\\
+\end{rightbox}
+\newpage
+
+%============= PROPOSED ORDER ==================
+\makecaption
+\section*{Order}
+\thispagestyle{empty}
+
+AND NOW, this \underline{~~~~~} day of \underline{~~~~~~~~~~}, 1993, upon consideration of Plaintiffs' Motion for a Temporary Restraining Order it is hereby
+
+ORDERED that Defendant George Bush is enjoined from removing Bert H. Mackie, Norma Pace, John N. Griesemer, Crocker Nevin, Tirso Del Junco, Marvin T. Runyon and Michael S. Coughlin from their positions as members of the Board of Governors of the Postal Service.
+
+\begin{rightbox}
+~\\
+~\\
+\underline{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}\\
+United States District Court Judge
+\end{rightbox}
+\newpage
+
+%================ BRIEF =======================
+\makecaption
+
+\section*{Plaintiffs' Statement of Points and Authorities In Support of the \\Motion for a Temporary Restraining Order}
+\pagenumbering{roman}
+\pagestyle{romanparen}
+\thispagestyle{empty}
+\newpage
+
+\section*{Table of Contents}
+\singlespacing
+\tableofcontents \newpage
+
+\begingroup
+%Uncomment the below to replace the section symbol with the word "Section"
+%However, the default makeindex does not properly sort these numerically
+%\protected\def\S{\ }
+%\def\Ss{Section }
+\tableofauthorities \newpage
+\endgroup
+
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+\section{Introduction}
+\doublespacing
+
+%\tracingmacros=2
+%\S
+%\show\S
+
+Plaintiffs request a temporary restraining order to enjoin the President from illegally removing them without cause as members of the Board of Governors of the Postal Service.  The Postal Service was established by Congress as an agency independent of political authority, and outside the direction of the President.  It is directed by a Board of Governors that---while appointed by the President and under the advice and consent of the Senate---are chosen solely for their economic and managerial skills, and whose task is to run the Postal Service in a professional, business-like manner.  An inevitable result of their independence is that they will at times have different views than those of the President, and in fact, they now take a different litigation stance than does the President on a rate-setting matter.  The President has threatened to retaliate against the Governors for their independent stance by illegally removing them from office.  \cite{Kosturek}
+
+Were the President allowed to persist in this course of action, the independence of future Governors would be permanently curtailed, and the will of Congress in establishing this independent agency would be thwarted.  To prevent this irreparable injury, the Governors request this Court to enter a temporary restraining order enjoining the President from removing the Governors.  An ex parte order is appropriate in this case because the President, were he to be informed of this action in advance of a hearing, is liable to remove the Governors immediately. Therefore, to preserve the status quo so that this matter may be properly adjudicated, a temporary restraining order is needed.  
+
+It is no matter that the President of the United States is the subject of the requested injunction.  The President is a public officer like any other, and subject to the laws.  In order to see that the laws of this country are properly respected, this Court has the authority to enjoin the President from violating them.   
+ 
+\section{Statement of Facts}
+
+\subsection{Statutory Framework}
+
+
+\subsection{Factual Case History}
+
+\section{Argument}
+
+
+\subsection{The Governors Have Substantial Likelihood of Success On The Merits}
+
+
+\subsubsection{This Court has the Authority to Enjoin the President}
+
+
+\subsubsection{Congress May Establish Independent Agencies, Whose Officers May Not Be Removed At The President's Discretion}
+
+
+\subsubsection{The Postal Service Is Such An Independent Agency, Therefore Its Governors May Not Be Removed Without Cause} 
+
+
+\subsubsection{A Disagreement Over Litigation Is Not Cause For Removal}
+
+
+\subsection{The Governors Face Immediate and Irreparable Injury If The TRO Is Not Granted}
+
+If the Governors are removed from office before the conclusion of their term, they will be irreparably injured.  An irreparable injury is one ``that cannot be adequately measured or compensated by money.'' \cite{Black's Law Dictionary}.  While part of the damage is monetary---the loss of salary---they also have the right to continue in office for the duration of their term.  This right cannot be measured in monetary amounts. The deprivation of this right is irreparable.
+
+Furthermore, the ex parte restraining order is appropriate, rather than waiting for a full hearing. A temporary restraining order may be granted without written or oral notice to the adverse party or that party's attorney only if immediate and irreparable injury, loss, or damage will result to the applicant before the adverse party can be heard in opposition. \cite{CPLR}{Rule 65}.  The President has threatened to remove the Governors by today, January 6, 1993. 
+ 
+\subsection{No Third Parties Will Be Harmed, And The Public Interest Favors Granting The TRO}
+
+No third parties are directly affected by the requested TRO.  The TRO maintains the status quo, and will not alter the interactions of third parties with the Postal Service.  However, a failure to issue the TRO will cause uncertain leadership in the Postal Service.  The President is likely to exercise his recess power to appoint replacement Governors to the Board.  Such an action would compound the damages suffered by the Plaintiffs, as they would alter the policies that the Plaintiffs had a right to put in place as Governors of the Postal Service.   
+
+In contrast, this Court will cause at worst a minor delay for the Executive Branch by issuing a restraining order now.  The obvious disadvantage of an ex parte TRO is that it restrains the actions of one party before that party has been able to fully adjudicate it's rights, or even be heard in court.  However, such concerns may be mitigated if the period of time before a full hearing are short, especially if the failure to issue the order will cause severe hardship to the other party.  In this case, no factual issues are in dispute between the parties, and no testimony or discovery are required.  As a dispute over a question of law, this matter will be resolved in summary judgment, most probably within several weeks.  If the President were to win at that time, his damage is limited to having suffered a short delay.  However, without the injunction, even if the Governors were to win their case on the merits, they would likely have already suffered the irreparable loss of their position.  Therefore the balance of equities favors granting the TRO.
+
+\section{Conclusion}
+
+For the reasons set forth above, a temporary restraining order should be entered enjoining Defendant Bush from removing the Governors of the Postal Service.
+
+\noindent Date: January 6, 1993
+
+\begin{rightbox}
+Respectfully Submitted,\\
+~\\
+Aaron M Feldman\\
+127 Wall Street\\
+New Haven, CT 06511\\
+\end{rightbox}
+
+\end{document}
+
+
